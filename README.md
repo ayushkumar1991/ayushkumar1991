@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ayush kuamr</h1>
-<h3 align="center">A passionate full developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">A passionate coder with proficiency in problem solving and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar1991&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar1991" /> </p>
+
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **MERN Stack , DSA , Problem Solving and modern web tools..**
 
@@ -14,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-607444242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-kumar-607444242/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayushkumr1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayushkumr1991" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushkumr1991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkumr1991/" height="30" width="40" /></a>
 </p>
 
@@ -24,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar1991&show_icons=true&locale=en&layout=compact" alt="ayushkumar1991" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkumar1991&show_icons=true&locale=en" alt="ayushkumar1991" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar1991&" alt="ayushkumar1991" /></p>
