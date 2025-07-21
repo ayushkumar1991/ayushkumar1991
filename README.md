@@ -1,42 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Passionate MERN Stack Developer | Open Source Contributor | Problem Solver</h3>
+h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushkumar1991&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar1991" />
+<img src="https://komarev.com/ghpvc/?username=ayushkumar1991&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ayushkumar1991" />
+</p>
+
+<p align="center">
+<a href="https://github.com/ayushkumar1991">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;DSA+%2F+Problem+Solver;Always+Learning+New+Things;Welcome+to+my+GitHub+profile!" />
+</a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🧠 About Me
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar1991&theme=algolia&row=2&column=3" alt="ayushkumar1991" />
-  </a>
+- 🌱 I’m currently exploring **AI/ML**
+- 💬 Ask me about: **MERN Stack, DSA, REST APIs, Web Dev Tools**
+- 📫 Reach me at: [ayushwork003@gmail.com](mailto:ayushwork003@gmail.com)
+- 📄 [My Resume](https://drive.google.com/file/d/1IBW6ihGJ1A30JmDd_hDMT3wRcQjM2Vjw/view?usp=sharing)
+- ⚡ Fun fact: _"I run on caffeine and clean code ☕"_
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ayush-kumar-607444242/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
+<a href="https://leetcode.com/ayushkumr1991/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" />
+</a>
+<a href="mailto:ayushwork003@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar1991&show_icons=true&theme=radical" alt="GitHub Stats" />
+### Languages & Frameworks:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,python,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar1991&theme=radical" alt="GitHub Streak" />
-</p>
+### Tools & Platforms:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar1991&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,aws,gcp,azure,figma" />
 </p>
 
 ---
 
-### 💬 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushkumar1991&show_icons=true&theme=radical" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar1991&layout=compact&theme=radical" width="47%" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushkumar1991&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🔥 Fun Dev Quote
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_
+> — Cory House
+
+---
+
+## 💡 Let's Collaborate!
+
+Open to full-time roles, freelance, or collaboration on awesome open-source or product-driven projects. Let’s build something amazing together!
+
+---
