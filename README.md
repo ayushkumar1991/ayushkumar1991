@@ -12,7 +12,7 @@
 - 🌱 I’m currently diving into **AI/ML**
 - 💬 Ask me about: **MERN Stack, DSA, problem solving, modern web tools**
 - 📫 Reach me at: **ayushkumarinternship@gmail.com**
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1L2OG66RGnej2PwxoipbiGbAKAUkvVcTF/view?usp=drivesdk)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1IBW6ihGJ1A30JmDd_hDMT3wRcQjM2Vjw/view?usp=sharing)
 - ⚡ Fun fact: _I run on caffeine ☕_
 
 ---
